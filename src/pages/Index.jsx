@@ -39,7 +39,7 @@ export default function VanguardPanelSolutionsWebsite() {
             }
 
             const response = await axios.post(
-                "http://localhost:5000/api/rfq/create-rfq",
+                "https://vanguardholdingslankabackend-production.up.railway.app/api/rfq/create-rfq",
                 data,
                 {
                     headers: {
@@ -91,7 +91,7 @@ export default function VanguardPanelSolutionsWebsite() {
 
         const canonical = document.createElement('link')
         canonical.rel = 'canonical'
-        canonical.href = 'https://www.vanguardpanels.com'
+        canonical.href = 'http://vanguardholdingslanka.com'
         document.head.appendChild(canonical)
     }, [])
     const [mobileMenu, setMobileMenu] = useState(false)
