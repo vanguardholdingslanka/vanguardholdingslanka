@@ -682,7 +682,7 @@ export default function VanguardPanelSolutionsWebsite() {
                                 </div>
 
                                 <div className="grid gap-6 sm:grid-cols-2">
-                                    <div className="rounded-3xl border border-zinc-800 bg-zinc-950 p-8">
+                                    <div className="rounded-3xl border border-zinc-800 bg-zinc-950 p-8 sm:col-span-2">
                                         <h3 className="mb-4 text-2xl font-bold text-white">
                                             Email
                                         </h3>
