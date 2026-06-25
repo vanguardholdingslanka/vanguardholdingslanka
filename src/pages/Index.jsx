@@ -688,11 +688,11 @@ export default function VanguardPanelSolutionsWebsite() {
                                         </h3>
 
                                         <p className="leading-relaxed text-zinc-400">
-                                            info@vanguardpanels.com
+                                            sales@vanguardholdingslanka.com
                                         </p>
                                     </div>
 
-                                    <div className="rounded-3xl border border-zinc-800 bg-zinc-950 p-8">
+                                    {/* <div className="rounded-3xl border border-zinc-800 bg-zinc-950 p-8">
                                         <h3 className="mb-4 text-2xl font-bold text-white">
                                             Phone
                                         </h3>
@@ -700,7 +700,7 @@ export default function VanguardPanelSolutionsWebsite() {
                                         <p className="leading-relaxed text-zinc-400">
                                             +94 77 000 0000
                                         </p>
-                                    </div>
+                                    </div> */}
 
                                     <div className="rounded-3xl border border-zinc-800 bg-zinc-950 p-8 sm:col-span-2">
                                         <h3 className="mb-4 text-2xl font-bold text-white">
@@ -708,7 +708,7 @@ export default function VanguardPanelSolutionsWebsite() {
                                         </h3>
 
                                         <p className="leading-relaxed text-zinc-400">
-                                            Colombo, Sri Lanka
+                                            Malabe, Sri Lanka
                                         </p>
                                     </div>
                                 </div>
@@ -786,7 +786,7 @@ export default function VanguardPanelSolutionsWebsite() {
                             </h3>
 
                             <div className="space-y-4 text-zinc-500">
-                                <p>info@vanguardpanels.com</p>
+                                <p>sales@vanguardholdingslanka.com</p>
                                 <p>+94 77 000 0000</p>
                                 <p>Colombo, Sri Lanka</p>
                             </div>
