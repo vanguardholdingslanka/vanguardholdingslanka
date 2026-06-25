@@ -788,7 +788,7 @@ export default function VanguardPanelSolutionsWebsite() {
                             <div className="space-y-4 text-zinc-500">
                                 <p>sales@vanguardholdingslanka.com</p>
                                 {/* <p>+94 77 000 0000</p> */}
-                                <p>Colombo, Sri Lanka</p>
+                                <p>Malabe, Sri Lanka</p>
                             </div>
                         </div>
                     </div>
